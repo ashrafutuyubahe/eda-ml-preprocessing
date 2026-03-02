@@ -15,8 +15,7 @@ build/
 *.docx
 *.doc
 
-# Root CSV (copy lives in vehicle_ml_dashboard/dummy_data/)
-vehicles_data_1000.csv
+
 
 # OS
 .DS_Store
