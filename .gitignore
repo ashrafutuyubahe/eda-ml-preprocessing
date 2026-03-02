@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Tutorial docs (not part of the project)
+*.pdf
+*.docx
+*.doc
+
+# Root CSV (copy lives in vehicle_ml_dashboard/dummy_data/)
+vehicles_data_1000.csv
+
+# OS
+.DS_Store
+Thumbs.db
